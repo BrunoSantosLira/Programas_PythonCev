@@ -1,0 +1,6 @@
+num= input('Informe um número:').zfill(4)
+print(f'Analisando o número {num}')
+print(f'\033[31mUnidade \033[m:{num[3]}')
+print(f'\033[33m Dezena \033[m:{num[2]}')
+print(f'\033[34m Centena\033[m:{num[1]}')
+print(f'\033[35m Milhar \033[m:{num[0]}')
