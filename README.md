@@ -14,7 +14,7 @@ Acesse o Curso em Vídeo clickando em um dos ícones abaixo:<br>
 </div>
 <hr>
 <div>
-    <h3>Para acessar os programas, você vai precisar do Python (de preferência na sua última versão)</h3>
+    <h3>Para acessar os programas, você vai precisar do Python 🐍 (de preferência na sua última versão)</h3>
     <p>
     Baixe aqui:<br>
             <a href="https://www.python.org/downloads/">  <img src="https://www.python.org/static/img/python-logo.png"> </a>
